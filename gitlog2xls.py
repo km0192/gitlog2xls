@@ -118,4 +118,4 @@ while lineNo < lineLen:
     lineNo = lineNo + 1
 
 fp.close()
-wb.save(r"D:\PyWorks\GitLogParser\gitlogparser.xlsx")
+wb.save(r"gitlogparser.xlsx")
