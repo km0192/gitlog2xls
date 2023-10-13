@@ -72,6 +72,6 @@ Date:   Fri Sep 8 14:04:35 2023 +0900
 
 ### Excel output
 
-<img src="gitlogparser_xlsx.png" width="300px"></img>
+<img src="gitlogparser_xlsx.png" width="66666600px"></img>
 
 
