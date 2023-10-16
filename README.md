@@ -8,9 +8,10 @@ Extract log from git repository and Save with xls format
    ```
 
 ## File Format
+### git_commit.log
 <details>
-<summary>git_commit.log</summary>
-- Parsing file included git log is like below.
+<summary>
+- Parsing file included git log is like below.</summary>
   
 ```
 commit e7c06bf77183e88e977ccfa35d5384d713cd001b
